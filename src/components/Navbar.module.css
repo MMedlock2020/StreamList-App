@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+
+
+/* Style class */
+.asimovian {
+  font-family: "Asimovian", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar {
+  background-color: #f5f5f5;
+  padding: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.link:hover {
+  color: #007bff;
+}
